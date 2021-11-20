@@ -1,0 +1,15 @@
+{
+  "name": "twitch-wled",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jeff Schofield <jeff@jeffschofield.com>",
+  "license": "MIT",
+  "scripts": {
+    "bot": "node index"
+  },
+  "dependencies": {
+    "tmi.js": "^1.8.5",
+    "wled-client": "^0.12.0-0.2"
+  },
+  "devDependencies": {}
+}

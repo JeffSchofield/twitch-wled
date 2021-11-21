@@ -2,7 +2,7 @@ const { default: WLEDClient } = require('wled-client')
 const { Client } = require('tmi.js')
 
 async function init() {
-	const wled = new WLEDClient('192.168.80.103')
+	const wled = new WLEDClient('<WLED_DEVICE_IP>')
 
 	const twitch = new Client({
 		options: { debug: true },

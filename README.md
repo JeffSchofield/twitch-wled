@@ -8,8 +8,9 @@ If you're totally new to Node.js, make sure it is installed first. Head to [the 
 
 With Node.js installed, clone this repo to your computer or download the zip of this repo using the green `Code` button on the upper right side of this page and extract it somewhere on your computer.
 
-OS X and Linux users: open Terminal
-Windows users: open Command Prompt
+**OS X and Linux users:** open Terminal
+
+**Windows users:** open Command Prompt
 
 In Terminal or Command Prompt, navigate to the folder for this repo that you cloned or extracted. You can use the `cd` (change directory) command to do this. For instance, I'm on Windows so I'd use `cd C:\repositories\twitch-wled`.
 

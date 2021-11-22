@@ -1,4 +1,4 @@
-const { default: WLEDClient } = require('wled-client')
+const { WLEDClient } = require('wled-client')
 const { Client } = require('tmi.js')
 
 async function init() {

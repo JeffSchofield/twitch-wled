@@ -46,4 +46,3 @@ if(command == '!toggle') {
 
 Using the above as reference, try implementing a command like `!color [red] [green] [blue]`. The WLED Client command for setting the primary color is `wled.setColor([RED, GREEN, BLUE])`.
 
-**Note**: As of creation WLED Client is in early stages and the package is a little bugged out so this code will change from `const { default: WLEDClient } = require('wled-client')` to `const WLEDClient = require('wled-client')` as of the next release.
